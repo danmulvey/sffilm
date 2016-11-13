@@ -3136,7 +3136,7 @@
 			margin: 0;
 			padding: 0;
 			position: absolute;
-			top: 0;
+			top: 20px;
 			color: #e5474b;
 			font-size: 1.75em;
 			text-transform: none;
@@ -3365,7 +3365,7 @@
 		color: #f2a3a5;
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/banner2.jpeg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
